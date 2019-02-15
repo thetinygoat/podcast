@@ -1,0 +1,12 @@
+{
+  "name": "podcast",
+  "version": "0.0.1",
+  "main": "server.js",
+  "repository": "https://github.com/thetinygoat/podcast.git",
+  "author": "Sachin Saini <iamsainisachin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.12"
+  }
+}
